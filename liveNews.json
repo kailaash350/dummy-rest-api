@@ -1,0 +1,68 @@
+{
+    "liveNews":[
+        {
+            "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-1.JPG",
+            "newsContent":"Ukraine live: No civilian evacuations for 3rd day",
+            "hot":"true"
+        },
+        {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-2.JPG",
+         "newsContent":"Explained: The wide yorker ansd its growing popularity in T20 cricket"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-3.JPG",
+         "newsContent":"Live: Cops submit report to Amit Shah in Jahangirpur case"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-4.JPG",
+         "newsContent":"T'puram: Work of 20 smart road may be completed by May 15",
+            "hot":"true"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-5.JPG",
+         "newsContent":"This IPL season, win exciting prize with CRED"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-6.JPG",
+         "newsContent":"Make this cricket season epic with croma TVs"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-7.JPG",
+         "newsContent":"KSRTC: begins salary disbursal"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-8.JPG",
+         "newsContent":"How Lanka's economy united those who deeply devided for decades",
+         "hot":"true"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-9.JPG",
+         "newsContent":"Organizer's affidavit is must for religious processions: Yogi"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-10.JPG",
+         "newsContent":"Thirivanathapuram: Youth held for absuing minor girl"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-11.JPG",
+         "newsContent":"Killings by communal forces are not political murder: CPI"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-12.JPG",
+         "newsContent":"The freshest summer offers on best-selling gadgets"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-13.JPG",
+         "newsContent":"Kerla HC verdict on actor Dileep's petition today"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-14.JPG",
+         "newsContent":"The love and hate map of India -- week II"
+     },
+     {
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-15.JPG",
+         "newsContent":"TTImes professional learning & IIM Trichy partners"
+     
+     }
+    ]
+}

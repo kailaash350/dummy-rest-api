@@ -1,0 +1,29 @@
+{
+    "sectionList":[
+        {
+            "sectionID":"1",
+            "sectionName":"Fashion",
+            "sectionURL":"https://google.com"
+ 
+        },
+        {
+         "sectionID":"2",
+         "sectionName":"Travel",
+         "sectionURL":"https://google.com"
+ 
+     },
+     {
+         "sectionID":"3",
+         "sectionName":"Beauty",
+         "sectionURL":"https://google.com"
+ 
+     },
+     {
+         "sectionID":"4",
+         "sectionName":"Advertisment",
+         "sectionURL":"https://google.com"
+ 
+     }
+    ]
+   
+}
