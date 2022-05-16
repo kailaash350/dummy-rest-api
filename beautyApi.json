@@ -1,0 +1,33 @@
+{
+ "articleList":[
+    {
+        "sectionID":"3",
+        "articleID":"301",
+        "articleTitle":"Korean lip blam recipe for pink lips",
+        "hero":"true",
+        "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/hero-3.JPG",
+        "category":"beauty"
+       },
+       {
+        "sectionID":"3",
+        "articleID":"302",
+        "articleTitle":"Best hair korean treatments for BTS style",
+        "hero":"false",
+        "category":"beauty"
+       },
+       {
+        "sectionID":"3",
+        "articleID":"303",
+        "articleTitle":"Skincare routine to beat summer acne",
+        "hero":"false",
+        "category":"beauty"
+       },
+       {
+        "sectionID":"3",
+        "articleID":"304",
+        "articleTitle":"Unsold car in Kochi",
+        "hero":"false",
+        "category":"beauty"
+        }
+ ]
+}

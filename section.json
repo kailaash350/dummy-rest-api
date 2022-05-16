@@ -1,0 +1,29 @@
+{
+    "sectionList":[
+        {
+            "sectionID":"1",
+            "sectionName":"Fashion",
+            "sectionURL":"fashionApi"
+ 
+        },
+        {
+         "sectionID":"2",
+         "sectionName":"Travel",
+         "sectionURL":"travelApi"
+ 
+     },
+     {
+         "sectionID":"3",
+         "sectionName":"Beauty",
+         "sectionURL":"beautyApi"
+ 
+     },
+     {
+        "sectionID":"4",
+        "sectionName":"Advertisment",
+        "sectionURL":"adsApi"
+
+    }
+    ]
+   
+}

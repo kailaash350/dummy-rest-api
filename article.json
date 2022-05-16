@@ -1,0 +1,94 @@
+{
+    "articleList":[
+        {
+         "sectionID":"1",
+         "articleID":"100",
+         "articleTitle":"KGF-2 actress shrinidhi sheety stuns in green dress",
+         "hero":"true",
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/hero-1.JPG",
+         "category":"fashion"
+        },
+        {
+         "sectionID":"1",
+         "articleID":"101",
+         "articleTitle":"Story behind alia's upcycled lehanga worn for her mehandhi",
+         "hero":"false",
+         "category":"fashion"
+        },
+        {
+         "sectionID":"1",
+         "articleID":"102",
+         "articleTitle":"Kiss and tell, watch full video...",
+         "hero":"false",
+         "category":"fashion"
+        },
+        {
+         "sectionID":"1",
+         "articleID":"103",
+         "articleTitle":"Eid outfit inspired from bollywood",
+         "hero":"false",
+         "category":"fashion"
+        },
+       
+        {
+         "sectionID":"2",
+         "articleID":"201",
+         "articleTitle":"A look at India's top 5 visited heritage sites",
+         "hero":"true",
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/hero-2.JPG",
+         "category":"travel"
+        },
+        {
+         "sectionID":"2",
+         "articleID":"202",
+         "articleTitle":"The quickest thing to do in spiti this summer",
+         "hero":"false",
+         "category":"travel"
+        },
+        {
+         "sectionID":"2",
+         "articleID":"203",
+         "articleTitle":"A beginner's iternary for Bali",
+         "hero":"false",
+         "category":"travel"
+        },
+        {
+         "sectionID":"2",
+         "articleID":"203",
+         "articleTitle":"How do travel in India in train with you pet",
+         "hero":"false",
+         "category":"travel"
+        },
+        {
+         "sectionID":"3",
+         "articleID":"301",
+         "articleTitle":"Korean lip blam recipe for pink lips",
+         "hero":"true",
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/hero-3.JPG",
+         "category":"beauty"
+        },
+        {
+         "sectionID":"3",
+         "articleID":"302",
+         "articleTitle":"Best hair korean treatments for BTS style",
+         "hero":"false",
+         "category":"beauty"
+        },
+        {
+         "sectionID":"3",
+         "articleID":"303",
+         "articleTitle":"Skincare routine to beat summer acne",
+         "hero":"false",
+         "category":"beauty"
+        },
+        {
+         "sectionID":"3",
+         "articleID":"304",
+         "articleTitle":"Unsold car in Kochi",
+         "hero":"false",
+         "category":"beauty"
+         }
+        
+
+    ]
+}

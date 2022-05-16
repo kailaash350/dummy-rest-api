@@ -1,0 +1,15 @@
+{
+    "articleList":[
+        
+        {
+         
+         "articleTitle":"Advertisment",
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/ad-1.JPG"
+        },
+        {
+         
+         "articleTitle":"Advertisment",
+         "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/ad-2.JPG"
+        }
+    ]
+}

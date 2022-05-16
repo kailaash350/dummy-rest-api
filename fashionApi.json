@@ -1,0 +1,36 @@
+
+{
+    
+    "articleList":[
+        {
+            "articleID":"100",
+            "articleTitle":"KGF-2 actress shrinidhi sheety stuns in green dress",
+            "hero":"true",
+            "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/hero-1.JPG",
+            "category":"fashion"
+        },
+        {
+            
+            "articleID":"101",
+            "articleTitle":"Story behind alia's upcycled lehanga worn for her mehandhi",
+            "hero":"false",
+            "category":"fashion"
+           },
+           {
+            
+            "articleID":"102",
+            "articleTitle":"Kiss and tell, watch full video...",
+            "hero":"false",
+            "category":"fashion"
+           },
+            {
+            "articleID":"103",
+            "articleTitle":"Eid outfit inspired from bollywood",
+            "hero":"false",
+            "category":"fashion"
+           }
+    ]   
+
+    
+
+}
