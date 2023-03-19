@@ -4,7 +4,8 @@
   "description": "dummy restapi for news site",
   "main": "index.js",
   "scripts": {
-    "jsonServer": "json-server --watch db.json"
+    "jsonServer": "json-server --watch db.json",
+    "build":"npm run-script build"
   },
   "author": "",
   "license": "ISC",

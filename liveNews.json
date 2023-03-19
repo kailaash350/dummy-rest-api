@@ -63,6 +63,16 @@
          "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-15.JPG",
          "newsContent":"TTImes professional learning & IIM Trichy partners"
      
-     }
+     },
+         {
+        "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-1.JPG",
+        "newsContent":"Ukraine live: No civilian evacuations for 3rd day",
+        "hot":"true"
+    },
+    {
+        "imgLink":"https://demo-kailaash-aus.s3.ap-southeast-2.amazonaws.com/live-news-image/side-8.JPG",
+        "newsContent":"How Lanka's economy united those who deeply devided for decades",
+        "hot":"true"
+    }
     ]
 }
